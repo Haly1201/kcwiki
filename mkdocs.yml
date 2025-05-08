@@ -3,3 +3,9 @@ extra:
   meta:
     - name: robots
       content: noindex, nofollow
+nav:
+  - Main: index.md
+  - Events Guides:
+    - Chess: chess.md
+    - Murder Mystery: mystery-murder.md
+    - Royal Mines: royal-mines.md
