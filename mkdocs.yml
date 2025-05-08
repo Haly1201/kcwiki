@@ -6,11 +6,12 @@ extra:
 nav:
   - Main: index.md
   - Events Guides:
-    - Chess: events/chess.md
-    - Murder Mystery: events/mystery-murder.md
-    - Royal Mines: events/royal-mines.md
-    - Scarlet Beauty: events/scarlet-beauty.md
-    - Twilight Castle: events/twilight-castle.md
+    - Chess: chess.md
+    - Murder Mystery: mystery-murder.md
+    - Royal Mines: royal-mines.md
+    - Scarlet Beauty: scarlet-beauty.md
+    - Twilight Castle: twilight-castle.md
+    - War of Lions: war-of-lions.md
 # theme:
 #   name: readthedocs
 #   highlightjs: true
