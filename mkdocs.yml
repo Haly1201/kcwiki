@@ -1,0 +1,5 @@
+site_name: Kings Choice s-1201 Wiki!
+extra:
+  meta:
+    - name: robots
+      content: noindex, nofollow
