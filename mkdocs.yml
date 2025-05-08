@@ -9,3 +9,22 @@ nav:
     - Chess: chess.md
     - Murder Mystery: mystery-murder.md
     - Royal Mines: royal-mines.md
+# theme:
+#   name: readthedocs
+#   highlightjs: true
+#   hljs_languages:
+#     - yaml
+#     - rust
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark side
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light side
